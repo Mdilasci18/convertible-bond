@@ -66,6 +66,6 @@ If you want to generate new output data(when new input data is added/have no acc
 
 ### Package-like Notebook
 No need to run or modify these two notebooks unless further development required.
-+ [Pricing Model.ipynb](https://github.com/rookieyifan/convertible-bond/blob/main/PricingModel.ipynb): Implementation of convertible bond pricing model API. Only imported and used in [Run Model.ipynb](http://gitlab.intern.dtl/yifan/convertible-bond/blob/master/Run%20Model.ipynb)
-+ [Backtest.ipynb](https://github.com/rookieyifan/convertible-bond/blob/main/Backtest.ipynb): Backtest framework. Only imported and used in [Strategy.ipynb](http://gitlab.intern.dtl/yifan/convertible-bond/blob/master/Strategy.ipynb)
++ [Pricing Model.ipynb](https://github.com/rookieyifan/convertible-bond/blob/main/PricingModel.ipynb): Implementation of convertible bond pricing model API. Only imported and used in [Run Model.ipynb]([http://gitlab.intern.dtl/yifan/convertible-bond/blob/master/Run%20Model.ipynb](https://github.com/rookieyifan/convertible-bond/blob/main/Run%20Model.ipynb)
++ [Backtest.ipynb](https://github.com/rookieyifan/convertible-bond/blob/main/Backtest.ipynb): Backtest framework. Only imported and used in [Strategy.ipynb](https://github.com/rookieyifan/convertible-bond/blob/main/Strategy.ipynb)
     +  input files: `cbond_info.csv`, `cbond_price.csv`, `cbond_data.pkl`, `stock_data.pkl`, `stock_data_raw.pkl`
